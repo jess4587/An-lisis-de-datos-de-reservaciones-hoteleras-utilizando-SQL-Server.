@@ -26,7 +26,7 @@ La base de datos `HOTEL` incluye las siguientes tablas:
 | `Pagos` | Montos y métodos de pago registrados |
 
 **Diagrama de Relaciones**
-!(screenshots/Dr_Hotel.png)
+![Diagrama de Relaciones](screenshots/Dr_Hotel.png)
 
 
 ## Análisis realizados
