@@ -1,4 +1,4 @@
-# 🏨 Hotel SQL — Análisis de Reservaciones
+﻿# 🏨 Hotel SQL — Análisis de Reservaciones
 
 ## Descripción del proyecto
 
@@ -24,6 +24,10 @@ La base de datos `HOTEL` incluye las siguientes tablas:
 | `Servicios` | Servicios disponibles y sus precios |
 | `Detalle_Servicios` | Servicios asociados a cada reservación |
 | `Pagos` | Montos y métodos de pago registrados |
+
+**Diagrama de Relaciones**
+(screenshots/Dr_Hotel.png)
+
 
 ## Análisis realizados
 
@@ -70,3 +74,4 @@ Este proyecto forma parte de mi práctica en análisis de datos. Me permitió tr
 ## Autor
 
 Jesús — Proyecto de portafolio como Data Analyst
+
